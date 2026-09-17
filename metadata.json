@@ -1,0 +1,6 @@
+{
+  "name": "Airplane Simulator",
+  "description": "A 3D flight simulator with responsive up, down, left, and right key controls, flight instruments, and dynamic terrain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
